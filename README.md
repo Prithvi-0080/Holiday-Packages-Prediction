@@ -25,5 +25,5 @@ Trained the model on historical data, using past package purchases as a proxy fo
 
 4. Model Evaluation
 
-Evaluated the model using metrics such as accuracy, precision, recall, and ROC-AUC.
-Performed cross-validation to ensure the model's robustness.
+Evaluated the model using metrics such as accuracy, precision, recall, and .
+Performed  is 98.4% accuracy.
